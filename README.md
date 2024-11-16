@@ -1,6 +1,6 @@
 # Semantic Search for Clinical Study Data Using BioBERT and Qdrant
 
-This project aims to create a semantic search engine for clinical study data using **BioBERT**, **spaCy**, and **Qdrant**. The system preprocesses clinical study data, vectorizes text descriptions, and uploads them to a Qdrant database for efficient similarity-based searching. 
+This project aims to create a semantic search engine for clinical study data using **BioBERT**, **spaCy**, and **Qdrant**. The system preprocesses clinical study data, vectorizes text descriptions, and uploads them to a Qdrant database for efficient similarity-based searching. The dataset used for this example is publicly available on the EMA Catalogue.
 
 **⚠️ Note:** This project is **not yet fully tested** and may not work as intended. If you plan to fork or use it, expect potential issues, and further testing will be required.
 
